@@ -1,0 +1,9 @@
+.navbar-inverse{
+background-color:lightblue ;
+}
+#icono{
+text-align: center;
+}
+body{
+background-image: url("icon.png");
+}
